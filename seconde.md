@@ -1,3 +1,3 @@
 layout: page
-title: About
+title: Seconde
 Fichier seconde.md
