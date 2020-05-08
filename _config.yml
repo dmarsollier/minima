@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Physique Chimie
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -51,6 +51,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
+ - seconde.md
+ - premiere-STI2D.md
+ - terminal-S.md
 
 # Build settings
 theme: minima
